@@ -2,6 +2,7 @@
 layout: page
 title: Basic documentation transmitter
 nav_order: 1
+parent: Transmitter
 permalink: /Transmitter/BasicDocTransmitter/
 ---
 
