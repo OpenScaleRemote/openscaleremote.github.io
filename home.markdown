@@ -4,3 +4,4 @@
 
 layout: home
 ---
+This ist the main page for the OpenScaleRemote project.
