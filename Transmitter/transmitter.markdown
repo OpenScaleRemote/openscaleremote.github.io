@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Transmitter
+nav_order: 3
+has_children: true
 permalink: /Transmitter/
 ---
 
