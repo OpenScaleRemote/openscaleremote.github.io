@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Transmitter
+collection: hardware
 nav_order: 3
 has_children: true
 permalink: /Transmitter/

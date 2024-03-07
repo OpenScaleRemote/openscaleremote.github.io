@@ -33,6 +33,26 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
+# collections
+collections:
+  hardware:
+    permalink: "/hardware/"
+    output: true
+
+  software:
+    permalink: "/software/"
+    output: true
+
+just_the_docs:
+  collections:
+    hardware:
+      name: Hardware
+      nav_fold: false
+
+    software:
+      name: Software
+      nav_fold: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
