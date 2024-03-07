@@ -35,22 +35,22 @@ plugins:
 
 # collections
 collections:
-  hardware:
-    permalink: "/hardware/"
+  transmitter:
+    permalink: "/transmitter/"
     output: true
 
-  software:
-    permalink: "/software/"
+  receiver:
+    permalink: "/receiver/"
     output: true
 
 just_the_docs:
   collections:
-    hardware:
-      name: Hardware
+    transmitter:
+      name: Transmitter
       nav_fold: false
 
-    software:
-      name: Software
+    receiver:
+      name: Receiver
       nav_fold: false
 
 # Exclude from processing.
